@@ -1,3 +1,3 @@
 
 FROM vivekkalbhore73/test
-ADD . /var/www/html
+ADD . /var/www/html.
